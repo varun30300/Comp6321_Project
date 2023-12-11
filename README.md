@@ -53,6 +53,17 @@ notebook           &nbsp;&nbsp;&nbsp;&nbsp; 6.5.3  <br/>
     dataset 3 = '/kaggle/input/animal-faces/Dataset 3/Animal Faces'
 > The notebooks are now ready to run!
 ```
+## Instructions on how to run the pre-trained model on the provided sample test dataset
+```
+> Clone the repo
+    >> git clone https://github.com/varun30300/Comp6321_Project.git
+> Upload the Ipython notebooks on google colab/Kaggle.
+> Run the pre-trained-model.ipynb after uploading the datasets
+> Upload the model downloaded.
+> Give the dataset and model path in model-test.ipynb and run the file.
+
+```
+
 ## Source Code Package In PyTorch
 1) Task 1/hyperparameter-tuning.ipynb: This file contains the code for hyper parameter tuning of learning rate, batchsize etc on dataset 1 <br/>
 2) Task 1/best-hyperparameters-train-and-test.ipynb: This file contains the code training and testing the best hyperparameters we got on dataset 1. Also the TSNE plots using the model from scratch on all datasets <br/>
