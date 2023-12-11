@@ -58,4 +58,9 @@ notebook           &nbsp;&nbsp;&nbsp;&nbsp; 6.5.3  <br/>
 2) Task 1/best-hyperparameters-train-and-test.ipynb: This file contains the code training and testing the best hyperparameters we got on dataset 1. Also the TSNE plots using the model from scratch on all datasets <br/>
 3) Task 2/pre-trained-model.ipynb: This file contatins training and testing of dataset 1 using a pre trained model and TSNE plots on all three datasets using the pre trained model.
 
-```
+
+## Datasets
+Colorectal Cancer:- https://onedrive.live.com/?authkey=%21ADmb8ZdEzwFMZoo&id=FB338EA7CF297329%21405133&cid=FB338EA7CF297329&parId=root&parQt=sharedby&parCid=UnAuth&o=OneUp
+Prostate Cancer:-  https://onedrive.live.com/?authkey=%21APy4wecXgMnQ7Kw&id=FB338EA7CF297329%21405132&cid=FB338EA7CF297329&parId=root&parQt=sharedby&parCid=UnAuth&o=OneUp
+Animal faces:-  https://onedrive.live.com/?authkey=%21AKqEWb1GDjWPbG0&id=FB338EA7CF297329%21405131&cid=FB338EA7CF297329&parId=root&parQt=sharedby&parCid=UnAuth&o=OneUp
+---
